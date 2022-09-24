@@ -51,8 +51,8 @@ THEN I am able to successfully create, update, and delete data in my database
 
 ### Links
 
-- Solution URL: [Solution]()
-- Demo Video: [YouTube]()
+- Solution URL: [Solution](https://github.com/lafflin/13-Ecom-Back-End)
+- Demo Video: [YouTube](https://youtu.be/BMwzsJGlfxo)
   ​
 
 ## My process
